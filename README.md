@@ -1,5 +1,5 @@
 # HW1
-בחרנו את שאלות 5, 6, 4
+בחרנו את שאלות 4, 5, 7
 
 שאלה 4:
 
@@ -25,6 +25,9 @@
 שום חפץ לא נשמר בין הסיבובים, רק הידע שלך. צריך לפתור בעיה מורכבת תוך ניצול האירועים שאתה כבר יודע שיקרו.
 
 
-שאלה 6:
+שאלה 7:
+gemini: https://share.gemini.google/3FdZRRROxFGi
 
+chatgpt: https://chatgpt.com/share/6adcbd30-f1c0-83eb-8d5b-6ec84f714edb
 
+claude: 
