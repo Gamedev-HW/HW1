@@ -26,8 +26,9 @@
 
 
 שאלה 7:
+
 gemini: https://share.gemini.google/3FdZRRROxFGi
 
 chatgpt: https://chatgpt.com/share/6adcbd30-f1c0-83eb-8d5b-6ec84f714edb
 
-claude: 
+claude: https://claude.ai/share/f17cc6f1-0b67-43b4-a22c-5edb2e98ee42
